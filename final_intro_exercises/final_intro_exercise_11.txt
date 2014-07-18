@@ -1,0 +1,2 @@
+
+I think I like the documentation at rubyonrails.org.  They seem to have everything there:  guides, explanations on the details of each class, module, etc, and then links to the actual code behind the classes on github (which I find that I like looking at sometimes more than the explanations).  I have this along with the ruby_doc.org site bookmarked on my browser!
